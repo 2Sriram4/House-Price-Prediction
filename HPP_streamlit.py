@@ -12,7 +12,7 @@ with sidebar:
         index=0
     )
 
-    for i in range(15):
+    for i in range(16):
         st.text("")
 
     col1, col2 = st.columns(2)
