@@ -8,7 +8,7 @@ with sidebar:
     st.write('## Menu')
     City = st.radio(
         label='Select the City',
-        options=['Chennai', 'Delhi', 'Mumbai'],
+        options=['Chennai', 'Delh', 'Mumbai'],
         index=0
     )
 
